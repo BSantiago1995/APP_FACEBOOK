@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <resources>
+ <string name="app_name">LogSocialNetwork</string>
+ <string name="facebook_app_id">163774422503736</string>
+ <string name="fb_login_protocol_scheme">fb163774422503736</string>
+ </resources>
